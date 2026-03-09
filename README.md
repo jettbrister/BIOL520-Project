@@ -2,7 +2,7 @@
 
 This assumes you are working on a Linux-System and have set the environment variable 'SUBSMIX_HOME' to the directory, where the software should be located, e.g.
 
-    export SUBSMIX_HOME="$HOME/repos/subsmix"
+    export SUBSMIX_HOME="/home/jbrister/Repositories/BIOL520-Project"
 
 The Python version used to generate the results in the paper is 3.11.3
 
